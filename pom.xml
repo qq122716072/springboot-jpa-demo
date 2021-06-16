@@ -15,7 +15,7 @@
         <version.log4j>1.2.17</version.log4j>
         <version.dom4j>1.6.1</version.dom4j>
         <version.fastjson>1.2.46</version.fastjson>
-        <tomcat.version>8.5.51</tomcat.version>
+        <tomcat.version>8.5.61</tomcat.version>
         <version.spring-data-jpa>1.11.10.RELEASE</version.spring-data-jpa>
         <version.commons-collections>3.2.2</version.commons-collections>
     </properties>
